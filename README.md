@@ -1,6 +1,6 @@
-# Serverless Go Service
+# Serverless Go Application
 
-A serveless go application that provides two services:
+A serveless go application that I built while I was learning Go and FaaS. The application provides two services:
 - Finds the n'th element of Fibonacci sequence
 - Checks if a number is prime
 
